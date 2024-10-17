@@ -26,7 +26,7 @@ KNN_Face_Recognition/
 ├── requirements.txt      # Python dependencies
 │
 ├── README.md             # Project description and setup instructions
-```
+`````
 
 ## Getting Started
 To get a local copy of this project up and running, follow these steps:
@@ -37,7 +37,7 @@ Ensure you have Python installed on your system. This project is developed and t
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/KNN_Face_Recognition.git
+   git clone https://github.com/ChaimaBalti/KNN_Face_Recognition.git
    cd KNN_Face_Recognition
    ```
 2. Install the required packages:
@@ -73,10 +73,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Matplotlib](https://matplotlib.org/) - for visualizations.
 
 ```
-
-### Customization
-- Replace `your_username` with your GitHub username in the clone command.
-- Update the sections about the dataset in the `data/README.md` file.
-- You can add any additional sections that are relevant to your project, such as specific algorithms used, model parameters, or example images.
-
-Let me know if you need any more adjustments!
