@@ -9,25 +9,6 @@ The **KNN Face Recognition** project implements a K-Nearest Neighbors (KNN) algo
 - **Model Evaluation**: Evaluate model performance using accuracy metrics and confusion matrices.
 - **Visualization**: Visualizes the results of face recognition through plots and sample predictions.
 
-## Directory Structure
-````plaintext
-KNN_Face_Recognition/
-│
-├── data/                 # Directory for datasets
-│   ├── README.md         # Description of the dataset
-│
-├── src/                  # Source code directory
-│   ├── knn_face_recognition.py  # Main KNN implementation
-│   ├── utils.py          # Utility functions (e.g., for loading data)
-│
-├── notebooks/            # Jupyter notebooks for exploration and testing
-│   ├── exploratory_analysis.ipynb  # Notebook for initial data exploration
-│
-├── requirements.txt      # Python dependencies
-│
-├── README.md             # Project description and setup instructions
-`````
-
 ## Getting Started
 To get a local copy of this project up and running, follow these steps:
 
@@ -48,15 +29,8 @@ Ensure you have Python installed on your system. This project is developed and t
 ## Usage
 - To train the KNN model and perform face recognition, run the main script:
    ```bash
-   python src/knn_face_recognition.py
+   python knn_face_recognition.py
    ```
-- For exploratory data analysis and visualization, use the provided Jupyter notebook:
-   ```bash
-   jupyter notebook notebooks/exploratory_analysis.ipynb
-   ```
-
-## Data
-Please refer to the `data/README.md` file for details about the dataset used in this project, including how to obtain it and its structure.
 
 ## Model Evaluation
 The model's performance can be assessed using various metrics such as accuracy and F1 score. Detailed evaluation results will be output during the model execution.
