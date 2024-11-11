@@ -3,7 +3,7 @@
 ## Overview
 The **KNN Face Recognition** project implements a K-Nearest Neighbors (KNN) algorithm for face recognition tasks. This project leverages image data to classify faces based on their features extracted from photographs. The KNN algorithm is known for its simplicity and effectiveness in handling classification problems, making it suitable for this face recognition application.
 
-### Acknowledgments
+## Acknowledgments
 This project contains code from [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition), with minor modifications to fit the needs of this project. Many thanks to [@ageitgey](https://github.com/ageitgey) for the original code and for making it available under an open-source license.
 
 ## Features
